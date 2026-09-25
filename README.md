@@ -77,7 +77,7 @@ Attendance-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/yatharth-kaushik/Attendance-Management-System-Web-App/tree/main
 ```
 
 2. Open the project folder.
